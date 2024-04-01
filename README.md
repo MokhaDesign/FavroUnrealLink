@@ -1,7 +1,7 @@
 ﻿# Favro to Unreal Engine Link
 A simple Favro integration for Unreal Engine to quick-check boards and post into a dedicated Bug Report collection.
 
-This Unreal Plugin is an on-going personal endeavour to practice Slate, Editor Customisation, System Architecture, and HTTP requests in Unreal. As such, please refrain from pull requests and rather give me a piece of your mind on LinkedIn or Discord so I can improve.
+This Unreal Plugin is an on-going personal endeavour to practice Slate, Editor Customisation, System Architecture, and HTTP requests in Unreal. As such, please refrain from pull requests and rather give me a piece of your mind on [LinkedIn](https://www.linkedin.com/in/marianhev) or [Discord](https://discord.com/users/novembrinewaltz) so I can improve.
 
 ![dashboardview.png](img%2Fdashboardview.png)
 
